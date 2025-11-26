@@ -1,0 +1,26 @@
+{
+  "name": "food-app",
+  "version": "1.0.0",
+  "description": "Food App using react",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udayasreetharun/food-app.git"
+  },
+  "author": "Udaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/udayasreetharun/food-app/issues"
+  },
+  "homepage": "https://github.com/udayasreetharun/food-app#readme",
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.1"
+  }
+}
